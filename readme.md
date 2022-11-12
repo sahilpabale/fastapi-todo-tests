@@ -13,6 +13,3 @@ Learn how to setup a CI/CD Pipeline with FastAPI, AWS, and Semaphore in this tut
 
 - Run `uvicorn app.main:app --reload` to fire up your development server.
 - Point your browser to `localhost:8000/docs` to test things out in your browser
-
-
-- just testing out
