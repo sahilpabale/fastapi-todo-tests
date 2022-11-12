@@ -15,9 +15,9 @@ blocks:
         - name: S3_BUCKET_NAME
           value: elasticbeanstalk-us-east-1-653929669515
         - name: EB_APP_NAME
-          value: fastapi-todo-tests
+          value: fastapi-todo-app
         - name: EB_ENV_NAME
-          value: Fastapitodotests-env
+          value: Fastapitodoapp-env
 
       jobs:
         - name: "Deployment"
